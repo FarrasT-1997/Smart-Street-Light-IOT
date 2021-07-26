@@ -1,7 +1,7 @@
 # Smart-Street-Light-IOT
 Project with my friend about a miniature street light that could be controled from smartphone.
 
-Thanks for BLYNK, a simple application IOT that can handle many IOT's activity such as sending data from Arduino and show it in your phone
+Thanks for BLYNK, a simple application that can handle many IOT's activity such as sending data from Arduino and show it in your phone
 or give an instruction to switch on your LED just in one touch anywhere.
 
 We separated the system into 2 modes, there are automatic and manual.
